@@ -1,3 +1,6 @@
+**Please refer to the "v1.1" set of files for our project, that is where the updated files are located
+
+
 Title:Virtual Library System
 Team Member Details:
 Team Member 1: Marcos Malvido
